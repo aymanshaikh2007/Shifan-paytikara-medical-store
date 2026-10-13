@@ -1,0 +1,6 @@
+{
+  "name": "Shipaf Paytikara — Medical E-commerce",
+  "description": "Clean, trustworthy, and modern medical e-commerce platform for healthcare essentials, medical devices, and wellness products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
